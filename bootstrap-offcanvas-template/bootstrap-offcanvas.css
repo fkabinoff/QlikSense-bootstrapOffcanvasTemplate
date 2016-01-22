@@ -91,9 +91,7 @@ footer {
 /* Sidebar navigation */
 .nav-sidebar {
   background-color: #f5f5f5;
-  margin-right: -15px;
   margin-bottom: 20px;
-  margin-left: -15px;
 }
 .nav-sidebar > li > a {
   padding-right: 20px;
@@ -142,6 +140,11 @@ footer {
 }
 .qvfilters {
     height: 200px;
+}
+
+/* Keeps object heading text from cutting off */
+.qv-object .qv-object-title {
+    white-space: normal;
 }
 
 
