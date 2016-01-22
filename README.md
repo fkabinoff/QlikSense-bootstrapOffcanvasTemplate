@@ -3,6 +3,8 @@ QlikSense-BlankBootstrapTemplate
 
 This template for Qlik Sense 2.x includes Bootstrap and an off-canvas menu, good for placing a filter pane, among other things.
 
+Demo at http://webapps.qlik.com/offcanvas-template-demo/offcanvasTemplateDemo.html
+
 *********************************
 Installation & Use
 *********************************
